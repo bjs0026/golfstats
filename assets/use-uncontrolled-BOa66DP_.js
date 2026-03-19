@@ -1,1 +1,0 @@
-import{st as e,ut as t}from"./index-n26IjY-S.js";var n=t(e(),1);function r({value:e,defaultValue:t,finalValue:r,onChange:i=()=>{}}){let[a,o]=(0,n.useState)(t===void 0?r:t);return e===void 0?[a,(e,...t)=>{o(e),i?.(e,...t)},!1]:[e,i,!0]}export{r as t};

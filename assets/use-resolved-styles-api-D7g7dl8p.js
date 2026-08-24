@@ -1,0 +1,1 @@
+import{B as e,F as t,V as n,_t as r,it as i,mt as a}from"./index-MYRnc0I4.js";a(),i();function o({classNames:r,styles:i,props:a,stylesCtx:o}){let s=t();return{resolvedClassNames:n({theme:s,classNames:r,props:a,stylesCtx:o||void 0}),resolvedStyles:e({theme:s,styles:i,props:a,stylesCtx:o||void 0})}}export{o as t};

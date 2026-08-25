@@ -1,0 +1,1 @@
+import{gt as e,ot as t,yt as n}from"./index-BzNljr9F.js";var r=n(t(),1),i=n(e(),1);function a(e=null){let t=(0,i.createContext)(e);return[({children:e,value:n})=>(0,r.jsx)(t.Provider,{value:n,children:e}),()=>(0,i.useContext)(t)]}export{a as t};

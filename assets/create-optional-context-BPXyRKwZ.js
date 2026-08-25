@@ -1,0 +1,1 @@
+import{_t as e,it as t,mt as n}from"./index-eMg-gcK-.js";var r=e(t(),1),i=e(n(),1);function a(e=null){let t=(0,i.createContext)(e);return[({children:e,value:n})=>(0,r.jsx)(t.Provider,{value:n,children:e}),()=>(0,i.useContext)(t)]}export{a as t};

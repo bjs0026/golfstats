@@ -1,0 +1,1 @@
+import{J as e,St as t,Tt as n,U as r,Y as i,ft as a}from"./index-Ca3ZyfQy.js";t(),a();function o({classNames:t,styles:n,props:a,stylesCtx:o}){let s=r();return{resolvedClassNames:i({theme:s,classNames:t,props:a,stylesCtx:o||void 0}),resolvedStyles:e({theme:s,styles:n,props:a,stylesCtx:o||void 0})}}export{o as t};

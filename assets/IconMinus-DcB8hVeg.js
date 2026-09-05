@@ -1,0 +1,1 @@
+import{c as e}from"./index-BTq4m1Cw.js";var t=e(`outline`,`minus`,`Minus`,[[`path`,{d:`M5 12l14 0`,key:`svg-0`}]]);export{t};

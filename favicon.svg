@@ -1,0 +1,17 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pin High">
+  <!-- navy card -->
+  <rect width="64" height="64" rx="14" fill="#102A43"/>
+  <!-- faint sage graph-paper grid -->
+  <g stroke="#4CAF7D" stroke-opacity="0.16" stroke-width="1">
+    <path d="M0 21H64M0 43H64M21 0V64M43 0V64"/>
+  </g>
+  <!-- putting green base + hole -->
+  <ellipse cx="32" cy="49" rx="22" ry="6" fill="#4CAF7D" fill-opacity="0.22"/>
+  <ellipse cx="26" cy="49" rx="3.4" ry="1.5" fill="#0B1B33"/>
+  <!-- flagstick -->
+  <rect x="24.6" y="13" width="2.8" height="36" rx="1.4" fill="#FDF8F0"/>
+  <!-- amber pennant, pin high -->
+  <path d="M27.4 14 L47 19.5 L27.4 25 Z" fill="#E8A838"/>
+  <!-- ball, settled pin high -->
+  <circle cx="41" cy="47" r="3.4" fill="#FDF8F0"/>
+</svg>
